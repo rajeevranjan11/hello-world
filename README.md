@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi everyone 
+I am a struggler coder wants to learn and earn.
